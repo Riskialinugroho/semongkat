@@ -1,3 +1,21 @@
+#btn {
+    position: absolute;
+    transition: .5s;
+    background-color: dodgerblue;
+    padding: 10px;
+    height: 40px;
+    width: 150px;
+}
+
+.kotak {
+    display: flex;
+    align-items: center;
+    height: 100%;
+
+}
+
 body {
     background-image: url(download\ \(2\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
