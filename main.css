@@ -1,21 +1,25 @@
+* {
+    text-align: center;
+}
+
+btnMau {
+    margin-right: 10px;
+}
+
 #btn {
     position: absolute;
     transition: .5s;
-    background-color: dodgerblue;
-    padding: 10px;
-    height: 40px;
-    width: 150px;
 }
 
-.kotak {
-    display: flex;
-    align-items: center;
-    height: 100%;
-
+.box {
+    background-color: white;
+    position: relative;
+    top: 250px;
+    width: 50px;
 }
 
 body {
-    background-image: url(download\ \(2\).jfif);
+    background-image: url(60fade61662fce008a78f34661341410.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
